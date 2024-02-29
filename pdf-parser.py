@@ -1,7 +1,18 @@
 import camelot
+import pandas as pd
 
-# extract all the tables in the PDF file
-tables = camelot.read_pdf("table.pdf")  # address of file location
+src = 'table.pdf'
 
-# print the first table as Pandas DataFrame
-print(tables[0].df)
+tables = camelot.read_pdf(src, strip_text='\n', pages='1')
+
+headers = ['Defendant First Name', 'Defendant Last Name', 'Case Number', 'Offense', 'Government Recommendation',
+           'Sentence Imposed']
+
+#df = pd.DataFrame(columns=headers)
+df = tables.df
+
+#for table in tables:
+#    temp = table.df.copy()
+#    df = pd.concat([df, temp])
+
+df.to_csv('sentences.csv')
