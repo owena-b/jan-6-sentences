@@ -3,7 +3,7 @@ import csv
 
 src = 'table.pdf'
 
-tables = camelot.read_pdf(src, strip_text='\n', pages='1-10')
+tables = camelot.read_pdf(src, strip_text='\n', pages='all')
 
 headers = ['Defendant First Name', 'Defendant Last Name', 'Case Number', 'Offense', 'Government Recommendation',
            'Sentence Imposed']
