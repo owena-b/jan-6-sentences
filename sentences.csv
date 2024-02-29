@@ -1,9 +1,88 @@
-,Defendant First Name,Defendant Last Name,Case Number,Offense,Government Recommendation,Sentence Imposed,0,1,2,3,4
-0,,,,,,,Defendant Name,Case Number,Offense of Conviction,Government Recommendation,Sentence Imposed
-1,,,,,,,"Morgan-Lloyd, Anna",1:21-CR-00164-RCL,40 U.S.C. § 5104(e)(2)(G),36 months’ probation 40 hours’ community service $500 restitution,36 months’ probation 120 hours’ community service $500 restitution
-2,,,,,,,"Ehrke, Valerie",1:21-CR-00097-PLF,40 U.S.C. § 5104(e)(2)(G),36 months’ probation 40 hours’ community service $500 restitution,36 months’ probation 120 hours’ community service $500 restitution
-3,,,,,,,"Bissey, Dona",1:21-CR-00165-TSC,40 U.S.C. § 5104(e)(2)(G),36 months’ probation 40 hours’ community service $500 restitution,14 days’ incarceration 60 hours’ community service $500 restitution
-4,,,,,,,"Hiles, Jacob",1:21-CR-00155-ABJ,40 U.S.C. § 5104(e)(2)(G),36 months’ probation 60 hours’ community service $500 restitution,24 months’ probation 60 hours’ community service $500 restitution
-5,,,,,,,"Wangler, Douglas",1:21-CR-00365-DLF,40 U.S.C. § 5104(e)(2)(G),36 months’ probation 40 hours’ community service $500 restitution,24 months’ probation 60 hours’ community service $500 restitution
-6,,,,,,,"Harrison, Bruce",1:21-CR-00365-DLF,40 U.S.C. § 5104(e)(2)(G),48 months’ probation 40 hours’ community service $500 restitution,24 months’ probation 60 hours’ community service $500 restitution
-7,,,,,,,"Sizer, Brian",1:22-CR-00376-JEB,40 U.S.C. § 5104(e)(2)(G),36 months’ probation $500 restitution,12 months’ probation $500 restitution
+Defendant First Name,Defendant Last Name,Case Number,Offense,Government Recommendation,Sentence Imposed
+Anna,Morgan-Lloyd,1:21-CR-00164-RCL,40 U.S.C. § 5104(e)(2)(G),36 months’ probation 40 hours’ community service $500 restitution,36 months’ probation 120 hours’ community service $500 restitution
+Valerie,Ehrke,1:21-CR-00097-PLF,40 U.S.C. § 5104(e)(2)(G),36 months’ probation 40 hours’ community service $500 restitution,36 months’ probation 120 hours’ community service $500 restitution
+Dona,Bissey,1:21-CR-00165-TSC,40 U.S.C. § 5104(e)(2)(G),36 months’ probation 40 hours’ community service $500 restitution,14 days’ incarceration 60 hours’ community service $500 restitution
+Jacob,Hiles,1:21-CR-00155-ABJ,40 U.S.C. § 5104(e)(2)(G),36 months’ probation 60 hours’ community service $500 restitution,24 months’ probation 60 hours’ community service $500 restitution
+Douglas,Wangler,1:21-CR-00365-DLF,40 U.S.C. § 5104(e)(2)(G),36 months’ probation 40 hours’ community service $500 restitution,24 months’ probation 60 hours’ community service $500 restitution
+Bruce,Harrison,1:21-CR-00365-DLF,40 U.S.C. § 5104(e)(2)(G),48 months’ probation 40 hours’ community service $500 restitution,24 months’ probation 60 hours’ community service $500 restitution
+Brian,Sizer,1:22-CR-00376-JEB,40 U.S.C. § 5104(e)(2)(G),36 months’ probation $500 restitution,12 months’ probation $500 restitution
+Jessica,Bustle,1:21-CR-00238-TFH,40 U.S.C. § 5104(e)(2)(G),3 months’ home detention 36 months’ probation 40 hours’ community service $500 restitution,60 days’ home detention 24 months’ probation 40 hours’ community service $500 restitution
+Joshua,Bustle,1:21-CR-00238-TFH,40 U.S.C. § 5104(e)(2)(G),30 days’ home detention 36 months’ probation 40 hours’ community service $500 restitution,30 days’ home detention 24 months’ probation 40 hours’ community service $500 restitution
+Danielle,Doyle,1:21-CR-00324-TNM,40 U.S.C. § 5104(e)(2)(G),2 months’ home detention 36 months’ probation 60 hours’ community service $500 restitution,"60 days’ probation $3,000 fine $500 restitution"
+Andrew,Bennett,1:21-CR-00227-JEB,40 U.S.C. § 5104(e)(2)(G),3 months’ home detention 36 months’ probation 60 hours’ community service $500 restitution,3 months’ home detention 24 months’ probation 80 hours’ community service $500 restitution
+Matthew,Mazzocco,1:21-CR-00054-TSC,40 U.S.C. § 5104(e)(2)(G),3 months’ home detention 36 months’ probation 60 hours’ community service $500 restitution,45 days’ incarceration 60 hours’ community service $500 restitution
+Eliel,Rosa,1:21-CR-00068-TNM,40 U.S.C. § 5104(e)(2)(G),30 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,12 months’ probation 100 hours’ community service $500 restitution
+Thomas,Gallagher,1:21-CR-00041-CJN,40 U.S.C. § 5104(e)(2)(G),30 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,24 months’ probation 60 hours’ community service $500 restitution
+Thomas,Vinson,1:21-CR-00355-RBW,40 U.S.C. § 5104(e)(2)(G),3 months’ home detention 3 years’ probation 60 hours’ community service $500 restitution,"5 years’ probation $5,000 fine 120 hours’ community service $500 restitution"
+Jonathan,Sanders,1:21-CR-00384-CJN,40 U.S.C. § 5104(e)(2)(G),60 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,36 months’ probation 60 hours’ community service $500 restitution
+Cindy,Fitchett,1:21-CR-00041-CJN,40 U.S.C. § 5104(e)(2)(G),60 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,30 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution
+Douglas,Sweet,1:21-CR-00041-CJN,40 U.S.C. § 5104(e)(2)(G),3 months’ home detention 36 months’ probation 60 hours’ community service $500 restitution,30 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution
+Sean,Cordon,1:21-CR-00269-TNM,40 U.S.C. § 5104(e)(2)(G),3 months’ home detention 36 months’ probation 60 hours’ community service $500 restitution,"60 days’ probation $4,000 fine $500 restitution"
+John IV,Wilkerson,1:21-CR-00302-CRC,40 U.S.C. § 5104(e)(2)(G),60 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,"36 months’ probation 60 hours’ community service $2,500 fine $500 restitution"
+Caleb,Jones,1:21-CR-00321-JEB,40 U.S.C. § 5104(e)(2)(G),3 months’ home detention 36 months’ probation 60 hours’ community service $500 restitution,60 days’ home detention 24 months’ probation 100 hours’ community service $500 restitution
+Terry,Brown,1:21-CR-00041-CJN,40 U.S.C. § 5104(e)(2)(G),45 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,30 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution
+Andrew,Wrigley,1:21-CR-00042-ABJ,40 U.S.C. § 5104(e)(2)(G),60 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,"18 months’ probation 60 hours’ community service $2,000 fine $500 restitution"
+Nicholas,Reimler,1:21-CR-00239-RDM,40 U.S.C. § 5104(e)(2)(G),60 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,30 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution
+Brandon,Miller,1:21-CR-00266-TSC,40 U.S.C. § 5104(e)(2)(G),90 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,20 days’ incarceration 60 hours’ community service $500 restitution
+Stephanie,Miller,1:21-CR-00266-TSC,40 U.S.C. § 5104(e)(2)(G),60 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,14 days’ incarceration 60 hours’ community service $500 restitution
+Andrew,Hatley,1:21-CR-00098-TFH,40 U.S.C. § 5104(e)(2)(G),60 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,36 months’ probation $500 restitution
+Rachael,Pert,1:21-CR-00139-TNM,18 U.S.C. § 1752(a)(1),3 months’ home detention 24 months’ probation 40 hours’ community service $500 restitution,24 months’ probation 100 hours’ community service $500 restitution
+Dana,Winn,1:21-CR-00139-TNM,18 U.S.C. § 1752(a)(1),3 months’ home detention 24 months’ probation 40 hours’ community service $500 restitution,10 days’ incarceration  12 months’ probation 100 hours’ community service $500 restitution
+Gary,Wickersham,1:21-CR-00606-RCL,40 U.S.C. § 5104(e)(2)(G),4 months’ home detention 36 months’ probation 60 hours’ community service $500 restitution,3 months’ home detention 36 months’ probation $2000 fine $500 restitution
+Esther,Schwemmer,1:21-CR-00364-DLF,40 U.S.C. § 5104(e)(2)(G),30 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,24 months’ probation 60 hours’ community service $500 restitution
+Brandon,Straka,1:21-cr-00579-DLF,40 U.S.C. § 5104(e)(2)(D),4 months’ home detention 36 months’ probation 60 hours’ community service $500 restitution,3 months’ home detention 36 months’ probation $5000 fine 60 hours’ community service $500 restitution
+Julia,Sizer,1:21-CR-00621-CRC,40 U.S.C. § 5104(e)(2)(G),60 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,"12 months’ probation $2,000 fine $500 restitution"
+William,Blauser,1:21-CR-00386-TNM,40 U.S.C. § 5104(e)(2)(G),3 months’ home detention 36 months’ probation 60 hours’ community service $500 restitution,$500 fine $500 restitution
+Richard,Barnard,1:21-CR-00235-RC,40 U.S.C. § 5104(e)(2)(G),30 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,30 days’ home detention 12 months’ probation 60 hours’ community service $500 restitution
+Jeffrey,Witcher,1:21-CR-00235-RC,18 U.S.C. § 1752(a)(1),60 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,12 months’ probation 60 hours’ community service $500 restitution
+Edward,McAlanis,1:21-CR-00516-DLF,40 U.S.C. § 5104(e)(2)(G),60 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,24 months’ probation 60 hours’ community service $500 restitution
+James,Lollis,1:21-CR-00671-BAH,40 U.S.C. § 5104(e)(2)(G),3 months’ home detention 36 months’ probation 100 hours’ community service $500 restitution,3 months’ home detention 36 months’ probation 100 hours’ community service $500 restitution
+Amy,Schubert,1:21-CR-00588-ABJ,40 U.S.C. § 5104(e)(2)(G),3 months’ home detention 36 months’ probation 60 hours’ community service,18 months’ probation $2000 fine 100 hours’ community service
+John,Schubert,1:21-CR-00587-ABJ,40 U.S.C. § 5104(e)(2)(G),60 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,18 months’ probation $1500 fine 100 hours’ community service $500 restitution
+Michael,Orangias,1:21-CR-00265-CKK,40 U.S.C. § 5104(e)(2)(G),3 months’ home detention 36 months’ probation $500 restitution,3 months’ home detention 36 months’ probation $500 restitution
+Michael,Quick,1:21-CR-00201-DLF,40 U.S.C. § 5104(e)(2)(G),3 months’ home detention 36 months’ probation $500 restitution,36 months’ probation $1000 fine 60 hours’ community service $500 restitution
+Stephen,Quick,1:21-CR-00201-DLF,40 U.S.C. § 5104(e)(2)(G),60 days’ home detention 36 months’ probation $500 restitution,24 months’ probation $1000 fine 60 hours’ community service $500 restitution
+Kenneth,Reda,1:21-CR-00452-TFH,40 U.S.C. § 5104(e)(2)(G),60 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,60 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution
+Brian,McCreary,1:21-CR-00125-BAH,18 U.S.C. § 1752(a)(1),3 months’ home detention 36 months’ probation 60 hours’ community service $500 restitution,"42 days’ intermittent confinement 60 days’ home detention 36 months’ probation $2,500 fine $500 restitution"
+Paul,Colbath,1:21-CR-00650-RDM,40 U.S.C. § 5104(e)(2)(G),3 months’ home detention 36 months’ probation 60 hours’ community service $500 restitution,30 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution
+Jacob,Lewis,1:21-CR-00100-CRC,40 U.S.C. § 5104(e)(2)(G),60 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,24 months’ probation $3000 fine 60 hours’ community service $500 restitution
+Nicholes,Lentz,1:22-CR-00053-RDM,18 U.S.C. § 1752(a)(1),60 days’ home detention 36 months’ probation,30 days’ home detention 36 months’ probation 100 hours’ community service
+Michael,Daughtry,1:21-CR00141-RDM,18 U.S.C. § 1752(a)(1),4 months’ home detention 36 months’ probation $500 restitution,60 days’ home detention 36 months’ probation $500 restitution
+John,Juran,1:21-CR-00419-TFH,40 U.S.C. § 5104(e)(2)(G),60 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,60 days’ home detention 36 months’ probation $500 fine $500 restitution
+Raechel,Genco,1:22-CR-00062-JMC,40 U.S.C. § 5104(e)(2)(G),30 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,12 months’ probation 60 hours’ community service $500 restitution
+Douglas Farquhar,Macrae,1:22-CR-00181-JEB,40 U.S.C. § 5104(e)(2)(G),4 months’ home detention  36 months’ probation 60 hours’ community service $500 restitution,12 months’ probation 150 hours’ community service $500 restitution
+Paul SR.,Seymour,1:22-CR-00041-APM,40 U.S.C. § 5104(e)(2)(G),3 months’ home detention 36 months’ probation 60 hours’ community service $500 restitution,12 months’ probation 60 hours’ community service $500 restitution
+Paul Jr.,Seymour,1:22-CR-00041-APM,40 U.S.C. § 5104(e)(2)(G),3 months’ home detention 36 months’ probation 60 hours’ community service $500 restitution,12 months’ probation 60 hours’ community service $500 restitution
+Jamie,Ferguson,1:22-CR-00194-APM,40 U.S.C. § 5104(e)(2)(G),24 months’ probation 30 days’ home detention 60 hours’ community service $500 restitution,24 months’ probation 60 hours’ community service $500 restitution
+Samuel,Fontanez-Rodriguez,1:22-CR-00256-EGS,40 U.S.C. § 5104(e)(2)(G),30 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,12 months’ probation 50 hours’ community service $500 restitution
+Karegan,Bostic,1:21-CR-00643-CKK,40 U.S.C. 5104(e)(2)(G),30 days’ home detention 36 months’ probation $500 restitution,30 days’ home detention 36 months’ probation $500 restitution
+Willard,Bostic,1:21-CR-00643-CKK,40 U.S.C. 5104(e)(2)(G),90 days’ home detention,90 days’ home detention
+Tyrone,McFadden,1:21-CR-00248-RDM,40 U.S.C. § 5104(e)(2)(G),90 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,30 days’ home detention 24 months’ probation 60 hours’ community service $500 restitution
+Aaron,Mileur,1:21-CR-00248-RDM,40 U.S.C. § 5104(e)(2)(G),90 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,30 days’ home detention 24 months’ probation 60 hours’ community service $500 restitution
+Carrie,Williams,1:21-CR-00248-RDM,40 U.S.C. § 5104(e)(2)(G),90 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,30 days’ home detention 24 months’ probation 60 hours’ community service $500 restitution
+Meghan,Rutledge,1:21-CR-00643-CKK,40 U.S.C. 5104(e)(2)(G),90 days’ home detention 36 months’ probation  60 hours’ community service $500 restitution,90 days’ home detention 36 months’ probation  60 hours’ community service $500 restitution
+Lilith,Saer,1:22-CR-00374-DLF,40 U.S.C. § 5104(e)(2)(D)  40 U.S.C. § 5104(e)(2)(G),60 days’ home detention 36 months’ probation  60 hours community service $500 restitution,36 months’ probation  200 hours community service $500 restitution
+Eric,Cantrell,1:22-CR-00121-TNM,40 U.S.C. § 5104(e)(2)(G),30 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,3 months’ probation 40 hours’ community service $500 restitution
+Gary,Smith,1:23-CR-0006-RCL,18 U.S.C. § 5104(e)(2)(G),90 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,30 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution
+Deborah,Kuecken,1:23-CR-0006-RCL,18 U.S.C. § 5104(e)(2)(G).,90 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,30 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution
+"Traugh,",,1:23-CR-00212-RCL,40 U.S.C. § 5104(e)(2)(G),4 months’ home detention,45 days’ home detention
+Alan Scott,Culbertson,1:23-CR-00065-ABJ,40 U.S.C. § 5104(e)(2)(G),30 days’ home detention 36 months’ probation 50 hours’ community service $500 restitution,18 months’ probation 50 hours’ community service $500 restitution
+Jeremy,Harrison,1:23-CR-00096-RDM,40 U.S.C. § 5104(e)(2)(G),60 days’ home detention 36 months’ probation 60 hours’ community service $500 restitution,30 days’ home detention 24 months’ probation 60 hours’ community service $500 restitution
+Karthik,Ramakrishn,1:23-CR-00247-JMC,40 U.S.C. § 5104(e)(2)(G),90 days’ home detention 36 months’ probation 60 hours community service $500 restitution,6 months’ probation $500 fine $500 restitution
+Kim Marie,Connolly,1:23-CR-00031-JMC,40 U.S.C. § 5104(e)(2)(G),60 days’ home detention 36 months’ probation $500 restitution,6 months’ probation $500 restitution
+Angelo,Pacheco,1:23-CR-00258-RDM,40 U.S.C. § 5104(e)(2)(G),36 months’ probation 60 days’ home detention  60 hours’ community service  $500 restitution,24 months’ probation  30 days’ home detention  60 hours’ community service  $500 restitution
+Michael,Curzio,1:21-CR-00041-CJN,40 U.S.C. § 5104(e)(2)(G),6 months’ incarceration,6 months’ incarceration $500 restitution
+Paul,Hodgkins,1:21-CR-00188-RDM,18 U.S.C. § 1512(c)(2),18 months’ incarceration,8 months’ incarceration 24 months’ supervised release $2000 restitution
+Karl,Dresch,1:21-CR-00071-ABJ,40 U.S.C. § 5104(e)(2)(G),6 months’ incarceration  $1000 fine $500 restitution,6 months’ incarceration $500 restitution
+Derek,Jancart,1:21-CR-00148-JEB,40 U.S.C. § 5104(e)(2)(D),4 months’ incarceration $500 restitution,45 days’ incarceration $500 restitution
+Edward,Hemenway,1:21-CR-00049-TSC,40 U.S.C. § 5104(e)(2)(G),30 days’ incarceration $500 restitution,45 days’ incarceration 60 hours’ community service $500 restitution
+Robert,Reeder,1:21-CR-00166-TFH,40 U.S.C. § 5104(e)(2)(G),6 months’ incarceration $500 restitution,3 months’ incarceration $500 restitution
+Robert,Bauer,1:21-CR-00049-TSC,40 U.S.C. § 5104(e)(2)(G),30 days’ incarceration $500 restitution,45 days’ incarceration 60 hours’ community service $500 restitution
+Troy,Smocks,1:21-CR-00198-TSC,18 U.S.C. § 875(c),Incarceration at low end of sentencing guidelines 36 months’ supervised release,14 months’ incarceration 36 months’ supervised release
+Lori,Vinson,1:21-CR-00355-RBW,40 U.S.C. § 5104(e)(2)(G),30 days’ incarceration $500 restitution,"60 months’ probation $5,000 fine 120 hours’ community service $500 restitution"
+Jack,Griffith,1:21-CR-00204-BAH,40 U.S.C. § 5104(e)(2)(G),3 months’ incarceration $500 restitution,3 months’ home detention 36 months’ probation $500 restitution
+Eric,Torrens,1:21-CR-00204-BAH,40 U.S.C. § 5104(e)(2)(G),14 days’ incarceration $500 restitution,3 months’ home detention 36 months’ probation $500 restitution
+Leonard,Gruppo,1:21-CR-00391-BAH,40 U.S.C. § 5104(e)(2)(G),30 days’ incarceration $500 restitution,"3 months’ home detention 24 months’ probation $3,000 fine $500 restitution"
+Jennifer,Ryan,1:21-CR-00050-CRC,40 U.S.C. § 5104(e)(2)(G),60 days’ incarceration $500 restitution,60 days’ incarceration $1000 fine $500 restitution
+Glenn,Croy,1:21-CR-00162-BAH,40 U.S.C. § 5104(e)(2)(G),60 days’ incarceration $500 restitution,3 months’ home detention 36 months’ probation $500 restitution
+Jordan,Stotts,1:21-CR-00272-TJK,40 U.S.C. § 5104(e)(2)(G),45 days’ incarceration $500 restitution,60 days’ home detention 24 months’ probation 60 hours’ community service
