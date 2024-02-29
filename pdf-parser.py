@@ -16,7 +16,7 @@ for table in tables:
 
 print(bigList)
 
-with open('sentences.csv', 'w', newline='', encoding='utf-8') as outfile:
+with open('jan-6-sentences.csv', 'w', newline='', encoding='utf-8') as outfile:
     writer = csv.writer(outfile)
     writer.writerow(headers)
 
@@ -30,4 +30,4 @@ with open('sentences.csv', 'w', newline='', encoding='utf-8') as outfile:
                 cell.insert(1, '')
         writer.writerows(table[1:])
 
-    print("Wrote sentences.csv")
+    print("Wrote jan-6-sentences.csv")
